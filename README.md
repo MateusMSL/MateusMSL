@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Pro-átivo, e sempre em busca de entender o que eu ainda não compreendi**
 
-<h3 align="left">Fale Comico:</h3>
+<h3 align="left">Fale Comigo:</h3>
 <p align="left">
 <a href="https://twitter.com/omattmeyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omattmeyer" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mateus-meira-santos-572772246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateus-meira-santos-572772246" height="30" width="40" /></a>
