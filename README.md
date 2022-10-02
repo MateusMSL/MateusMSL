@@ -1,5 +1,5 @@
-<h1 align="center">Oi 👋, Eu sou o Mateus</h1>
-<h3 align="center">Cursando Desenvolvimentos de Sistemas</h3>
+<h1 align="center">Oi 👋🏽, Eu sou o Mateus</h1>
+<h3 align="center">Estou cursando Desenvolvimentos de Sistemas  </h3>
 
 - 🔭 Estou atualmente trabalhando em um **portifólio**
 
@@ -7,7 +7,7 @@
 
 - 📫 Como me encontrar **mateus.meira.santos1@gmail.com**
 
-- 📄 Saiba minhas experiências: [Ainda não Trabalhei, mas estou em busca de estágio!]
+- 📄 Saiba minhas experiências: ( Ainda não Trabalhei, mas estou em busca de estágio! )
 
 - ⚡ **Sou pro-átivo, e sempre em busca de entender o que eu ainda não compreendi**
 
