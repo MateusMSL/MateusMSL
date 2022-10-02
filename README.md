@@ -5,11 +5,11 @@
 
 - 🌱 Estou Aprendendo **JavaScript, PHP, JQuery**
 
-- 📫 Como me encontrar **mateus.meira.santos1@gmail.com**
+- 📫 Como me encontrar: **mateus.meira.santos1@gmail.com**
 
 - 📄 Saiba minhas experiências: ( Ainda não Trabalhei, mas estou em busca de estágio! )
 
-- ⚡ **Sou pro-átivo, e sempre em busca de entender o que eu ainda não compreendi**
+- ⚡ **Sou pro-átivo, e estou sempre em busca de entender o que eu tenho interesse mas ainda não consegui compreender**
 
 <h3 align="left">Fale Comigo:</h3>
 <p align="left">
