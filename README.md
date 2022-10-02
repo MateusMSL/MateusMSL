@@ -9,7 +9,7 @@
 
 - 📄 Saiba minhas experiências: [Ainda não Trabalhei, mas estou em busca de estágio!]
 
-- ⚡ Fun fact **Pro-átivo, e sempre em busca de entender o que eu ainda não compreendi**
+- ⚡ **Sou pro-átivo, e sempre em busca de entender o que eu ainda não compreendi**
 
 <h3 align="left">Fale Comigo:</h3>
 <p align="left">
