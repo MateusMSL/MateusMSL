@@ -3,7 +3,7 @@
 
 - 🔭 Estou atualmente trabalhando em um **portifólio**
 
-- 🌱 Estou Aprendendo **JavaScript, PHP, JQuery**
+- 🌱 Estou Aprimorando minhas habilidades em **JavaScript**, iniciando meus estudos em **REACT** e **JQuery** e tambem na linguagem **JAVA**
 
 - 📫 Como me encontrar: **mateus.meira.santos1@gmail.com**
 
