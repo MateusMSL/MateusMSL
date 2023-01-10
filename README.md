@@ -1,4 +1,4 @@
-<h1 align="center">Oi ✋✋, Eu sou o Mateus</h1>
+<h1 align="center">Oi 👋, Eu sou o Mateus</h1>
 <h3 align="center">Estou cursando Desenvolvimentos de Sistemas  </h3>
 
 - 🔭 Estou atualmente trabalhando em um **portifólio**
