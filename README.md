@@ -3,11 +3,11 @@
 
 - 🔭 Estou atualmente trabalhando em um **portifólio**
 
-- 🌱 Estou Aprimorando minhas habilidades em **JavaScript**, iniciando meus estudos em **REACT** e **JQuery** e tambem na linguagem **JAVA**
+- 🌱 Estou Aprimorando minhas habilidades em **JavaScript**, iniciando meus estudos em **REACT** e **TypeScript**
 
 - 📫 Como me encontrar: **mateus.meira.santos1@gmail.com**
 
-- 📄 Saiba minhas experiências: ( Ainda não Trabalhei, mas estou em busca de estágio! )
+- 📄 Saiba minhas experiências: ( Ainda não Trabalhei, mas estou em busca de uma oportunidade! )
 
 - ⚡ **Sou pro-átivo, e estou sempre em busca de entender o que eu tenho interesse mas ainda não consegui compreender**
 
